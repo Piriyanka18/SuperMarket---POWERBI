@@ -5,15 +5,24 @@ Sales Dashbord
 
 Steps
 
-Import data in Power BI
-Data Cleaning in Power BI
-Data Modelling in Power BI
-Power Query Editor
-DAX in Power BI
-Measures and Calculations in Power BI
-Charts in Power BI
-Filters and Slicers in Power BI
-Dashboard in Power BI
-Insights from Dashboard
+1.Import data in Power BI
+
+2.Data Cleaning in Power BI
+
+3.Data Modelling in Power BI
+
+4.Power Query Editor
+
+5.DAX in Power BI
+
+6.Measures and Calculations in Power BI
+
+7.Charts in Power BI
+
+8.Filters and Slicers in Power BI
+
+9.Dashboard in Power BI
+
+10.Insights from Dashboard
 
 
